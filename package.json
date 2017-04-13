@@ -1,0 +1,25 @@
+{
+  "name": "gulp-wrong",
+  "version": "1.0.0",
+  "description": "Let developers know when they are WRONG",
+  "main": "wrong.js",
+  "keywords": [
+    "gulpplugin",
+    "console",
+    "error"
+  ],
+  "author": "Devin Rodriguez <devin@scaryuncledevin.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/scaryuncledevin/gulp-wrong",
+  "bugs": "https://github.com/scaryuncledevin/gulp-wrong/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scaryuncledevin/gulp-wrong.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "dependencies": {
+    "gulp-color": "0.0.1"
+  }
+}
