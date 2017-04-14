@@ -22,5 +22,3 @@ function wrong () {
 }
 
 module.exports = wrong;
-
-wrong();
