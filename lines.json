@@ -1,5 +1,5 @@
 [
-	[{"l":43,"c":"BLUE"},{"l":7,"c":"YELLOW"},{"l":29,"c":"BLUE"}],
+	[{"l":40,"c":"BLUE"},{"l":13,"c":"YELLOW"},{"l":26,"c":"BLUE"}],
 	[{"l":37,"c":"BLUE"},{"l":20,"c":"YELLOW"},{"l":22,"c":"BLUE"}],
 	[{"l":33,"c":"BLUE"},{"l":26,"c":"YELLOW"},{"l":20,"c":"BLUE"}],
 	[{"l":32,"c":"BLUE"},{"l":28,"c":"YELLOW"},{"l":19,"c":"BLUE"}],
@@ -18,12 +18,14 @@
 	[{"l":15,"c":"BLUE"},{"l":21,"c":"BLACK"},{"l":9,"c":"RED"},{"l":4,"c":"BLACK"},{"l":10,"c":"RED"},{"l":20,"c":"BLUE"}],
 	[{"l":8,"c":"BLUE"},{"l":28,"c":"BLACK"},{"l":23,"c":"RED"},{"l":20,"c":"BLUE"}],
 	[{"l":6,"c":"BLUE"},{"l":30,"c":"BLACK"},{"l":21,"c":"WHITE"},{"l":18,"c":"BLACK"},{"l":4,"c":"BLUE"}],
+
 	[{"l":5,"c":"BLUE"},{"l":31,"c":"BLACK"},{"l":21,"c":"WHITE"},{"l":22,"c":"BLACK"}],
-	[{"l":4,"c":"BLUE"},{"l":32,"c":"BLACK"},{"l":8,"c":"WHITE"},{"l":7,"c":"BLACK"},{"l":6,"c":"WHITE"},{"l":22,"c":"BLACK"}],
-	[{"l":3,"c":"BLUE"},{"l":34,"c":"BLACK"},{"l":7,"c":"WHITE"},{"l":7,"c":"BLACK"},{"l":5,"c":"WHITE"},{"l":23,"c":"BLACK"}],
-	[{"l":3,"c":"BLUE"},{"l":35,"c":"BLACK"},{"l":6,"c":"WHITE"},{"l":7,"c":"BLACK"},{"l":5,"c":"WHITE"},{"l":23,"c":"BLACK"}],
-	[{"l":2,"c":"BLUE"},{"l":37,"c":"BLACK"},{"l":5,"c":"WHITE"},{"l":7,"c":"BLACK"},{"l":5,"c":"WHITE"},{"l":23,"c":"BLACK"}],
-	[{"l":1,"c":"BLUE"},{"l":39,"c":"BLACK"},{"l":4,"c":"WHITE"},{"l":7,"c":"BLACK"},{"l":4,"c":"WHITE"},{"l":24,"c":"BLACK"}],
+	[{"l":4,"c":"BLUE"},{"l":32,"c":"BLACK"},{"l":8,"c":"WHITE"},{"l":2,"c":"BLUE"},{"l":3,"c":"L_GRAY"},{"l":2,"c":"BLUE"},{"l":6,"c":"WHITE"},{"l":22,"c":"BLACK"}],
+	[{"l":3,"c":"BLUE"},{"l":34,"c":"BLACK"},{"l":7,"c":"WHITE"},{"l":2,"c":"BLUE"},{"l":3,"c":"L_GRAY"},{"l":2,"c":"BLUE"},{"l":5,"c":"WHITE"},{"l":23,"c":"BLACK"}],
+	[{"l":3,"c":"BLUE"},{"l":35,"c":"BLACK"},{"l":6,"c":"WHITE"},{"l":2,"c":"BLUE"},{"l":3,"c":"L_GRAY"},{"l":2,"c":"BLUE"},{"l":5,"c":"WHITE"},{"l":23,"c":"BLACK"}],
+	[{"l":2,"c":"BLUE"},{"l":37,"c":"BLACK"},{"l":5,"c":"WHITE"},{"l":3,"c":"BLUE"},{"l":1,"c":"L_GRAY"},{"l":3,"c":"BLUE"},{"l":5,"c":"WHITE"},{"l":23,"c":"BLACK"}],
+	[{"l":1,"c":"BLUE"},{"l":39,"c":"BLACK"},{"l":4,"c":"WHITE"},{"l":3,"c":"BLUE"},{"l":1,"c":"L_GRAY"},{"l":3,"c":"BLUE"},{"l":4,"c":"WHITE"},{"l":24,"c":"BLACK"}],
+	
 	[{"l":1,"c":"BLUE"},{"l":78,"c":"BLACK"}],
 	[{"l":14,"c":"BLACK"},{"l":2,"c":"WHITE"},{"l":2,"c":"BLACK"},{"l":4,"c":"WHITE"},{"l":1,"c":"BLACK"},{"l":3,"c":"WHITE"},{"l":2,"c":"BLACK"},{"l":7,"c":"WHITE"},{"l":4,"c":"BLACK"},{"l":6,"c":"WHITE"},{"l":3,"c":"BLACK"},{"l":3,"c":"WHITE"},{"l":2,"c":"BLACK"},{"l":2,"c":"WHITE"},{"l":3,"c":"BLACK"},{"l":7,"c":"WHITE"},{"l":14,"c":"BLACK"}],
 	[{"l":14,"c":"BLACK"},{"l":2,"c":"WHITE"},{"l":2,"c":"BLACK"},{"l":4,"c":"WHITE"},{"l":1,"c":"BLACK"},{"l":3,"c":"WHITE"},{"l":2,"c":"BLACK"},{"l":3,"c":"WHITE"},{"l":2,"c":"BLACK"},{"l":3,"c":"WHITE"},{"l":2,"c":"BLACK"},{"l":3,"c":"WHITE"},{"l":2,"c":"BLACK"},{"l":3,"c":"WHITE"},{"l":2,"c":"BLACK"},{"l":3,"c":"WHITE"},{"l":2,"c":"BLACK"},{"l":2,"c":"WHITE"},{"l":2,"c":"BLACK"},{"l":8,"c":"WHITE"},{"l":14,"c":"BLACK"}],

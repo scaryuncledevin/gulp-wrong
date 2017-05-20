@@ -1,6 +1,6 @@
 {
   "name": "gulp-wrong",
-  "version": "2.0.4",
+  "version": "2.1.0",
   "description": "Let developers know when they are WRONG",
   "main": "wrong.js",
   "keywords": [
